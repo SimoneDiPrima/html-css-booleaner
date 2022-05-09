@@ -34,8 +34,7 @@ h1{
     font-size:60px;
 }
 .golden-decoration{
-   text-decoration:dotted;
-   color: yellow;
+  background-color: yellow;
 }
 .footpaper-1{
     background-image:url(../img/monitor.jpg);
